@@ -1,0 +1,19 @@
+{
+    "name": "Haznadar Token List",
+    "timestamp": "2025-07-07T00:00:00+00:00",
+    "version": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+    },
+    "tokens": [
+        {
+            "chainId": 56,
+            "address": "0x4A807862e4Aba279D10BE1a4900c70b942D6531b",
+            "name": "Haznadar",
+            "symbol": "HZNDR",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/kendi-github-repo/assets/main/blockchains/smartchain/assets/0x4A807862e4Aba279D10BE1a4900c70b942D6531b/logo.png"
+        }
+    ]
+}
