@@ -1,19 +1,26 @@
 {
-    "name": "Haznadar Token List",
-    "timestamp": "2025-07-07T00:00:00+00:00",
-    "version": {
-        "major": 1,
-        "minor": 0,
-        "patch": 0
-    },
-    "tokens": [
-        {
-            "chainId": 56,
-            "address": "0x4A807862e4Aba279D10BE1a4900c70b942D6531b",
-            "name": "Haznadar",
-            "symbol": "HZNDR",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/kendi-github-repo/assets/main/blockchains/smartchain/assets/0x4A807862e4Aba279D10BE1a4900c70b942D6531b/logo.png"
-        }
-    ]
+  "name": "Haznadar Token List",
+  "timestamp": "2025-07-07T13:45:00+00:00",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 56,
+      "address": "0xb48fa24f26764c3e18aff4da421f343e5e8ddf5d",
+      "name": "Baco's",
+      "symbol": "BACO",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/aymet1/baco-token-list/main/assets/images/0xb48fa24f26764c3e18aff4da421f343e5e8ddf5d/logo.png"
+    }
+  ],
+  "logoURI": "https://raw.githubusercontent.com/aymet1/baco-token-list/main/assets/images/0xb48fa24f26764c3e18aff4da421f343e5e8ddf5d/logo.png",
+  "keywords": [
+    "baco",
+    "haznadar",
+    "token",
+    "bsc"
+  ]
 }
