@@ -1,6 +1,8 @@
 {
   "name": "Haznadar Token List",
-  "timestamp": "2025-07-07T13:45:00+00:00",
+  "logoURI": "https://raw.githubusercontent.com/aymet1/haznadar-token-list/main/assets/images/0xb48fa24f26764c3e18aff4da421f343e5e8ddf5d/logo.png",
+  "keywords": ["baco", "haznadar", "token"],
+  "timestamp": "2025-07-07T14:00:00+00:00",
   "version": {
     "major": 1,
     "minor": 0,
@@ -13,14 +15,7 @@
       "name": "Baco's",
       "symbol": "BACO",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/aymet1/baco-token-list/main/assets/images/0xb48fa24f26764c3e18aff4da421f343e5e8ddf5d/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/aymet1/haznadar-token-list/main/assets/images/0xb48fa24f26764c3e18aff4da421f343e5e8ddf5d/logo.png"
     }
-  ],
-  "logoURI": "https://raw.githubusercontent.com/aymet1/baco-token-list/main/assets/images/0xb48fa24f26764c3e18aff4da421f343e5e8ddf5d/logo.png",
-  "keywords": [
-    "baco",
-    "haznadar",
-    "token",
-    "bsc"
   ]
 }
